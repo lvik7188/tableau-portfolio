@@ -10,7 +10,7 @@ Welcome to my Tableau Portfolio! Here you can find interactive dashboards and vi
    - Overview: An analysis of sales by region, product category, and channel.
    - Tools: Tableau, Google Sheets.
 
-2. **[A/B Testing Results Dashboard]((https://github.com/user-attachments/assets/c914d99c-696c-4c65-8825-32bd57b949dd)**
+2. **[A/B Testing Results Dashboard](https://github.com/user-attachments/assets/c914d99c-696c-4c65-8825-32bd57b949dd)**
    - Overview: Visualization of results from A/B tests, focusing on user behavior and conversion rates.
    - Tools: Tableau, Python.
 
